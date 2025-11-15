@@ -9,10 +9,13 @@ DARK BLUE: #1D3557
 */
 
 body {
-    margin: 0;
-    text-align: center;
+  margin: 0;
+  text-align: center;
 }
 
 img {
-    width: 100px;
+  width: 112px;
+}
+#skies-img {
+  width: 200px;
 }
